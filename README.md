@@ -16,9 +16,9 @@ flowchart LR
     end
     
     start --> sbb
-    sbb -. ??? .-> target   
+    sbb -. "🍰/☠️ ??" .-> target   
     start --> trainline
-    trainline -. ??? .-> target
+    trainline -. "🍰/☠️ ??" .-> target
     start --> interrail_pass
     interrail_pass --> seat1
     seat1 --> seat2_interrail
